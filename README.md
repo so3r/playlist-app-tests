@@ -4,8 +4,8 @@ This project implements test coverage for the [Play List Site](https://vite-reac
 
 
 ## Tech Stack:
-Test Framework: Playwright
-Language: JavaScript
+- Test Framework: Playwright
+- Language: JavaScript
 
 ## Features Tested:
 - Search tracks by name
